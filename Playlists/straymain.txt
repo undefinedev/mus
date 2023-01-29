@@ -1,0 +1,29 @@
+/home/javamusic/mus/straymain/01 - Inside the Wall.flac
+/home/javamusic/mus/straymain/02 - Dead City.flac
+/home/javamusic/mus/straymain/03 - Follow the Light.flac
+/home/javamusic/mus/straymain/04 - Intruder.flac
+/home/javamusic/mus/straymain/05 - Guardian.flac
+/home/javamusic/mus/straymain/06 - The Notebooks.flac
+/home/javamusic/mus/straymain/07 - Slums.flac
+/home/javamusic/mus/straymain/08 - Rooftops.flac
+/home/javamusic/mus/straymain/09 - Town Square.flac
+/home/javamusic/mus/straymain/10 - Communication.flac
+/home/javamusic/mus/straymain/11 - Secret Lab.flac
+/home/javamusic/mus/straymain/12 - Dead End.flac
+/home/javamusic/mus/straymain/13 - Raft.flac
+/home/javamusic/mus/straymain/14 - Fuse.flac
+/home/javamusic/mus/straymain/15 - Roberto is Out.flac
+/home/javamusic/mus/straymain/16 - Sewers.flac
+/home/javamusic/mus/straymain/17 - Hatching.flac
+/home/javamusic/mus/straymain/18 - Ant Village.flac
+/home/javamusic/mus/straymain/19 - Midtown.flac
+/home/javamusic/mus/straymain/20 - Outlaws.flac
+/home/javamusic/mus/straymain/21 - Trash Zone.flac
+/home/javamusic/mus/straymain/22 - Rikonium.flac
+/home/javamusic/mus/straymain/23 - Cells.flac
+/home/javamusic/mus/straymain/24 - Stealth.flac
+/home/javamusic/mus/straymain/25 - Courtyard.flac
+/home/javamusic/mus/straymain/26 - Last Night.flac
+/home/javamusic/mus/straymain/27 - Clean City.flac
+/home/javamusic/mus/straymain/28 - Control Room.flac
+/home/javamusic/mus/straymain/29 - Daybreak.flac
