@@ -1,41 +1,41 @@
-/home/javamusic/mus/straysounds/01 - Cool Down.flac
-/home/javamusic/mus/straysounds/02 - The Way you Compute Tonight.flac
-/home/javamusic/mus/straysounds/03 - Step on my Shard.flac
-/home/javamusic/mus/straysounds/04 - Tomorrows.flac
-/home/javamusic/mus/straysounds/05 - Sterilize.flac
-/home/javamusic/mus/straysounds/06 - Safe Mode.flac
-/home/javamusic/mus/straysounds/07 - Velocity Regression.flac
-/home/javamusic/mus/straysounds/08 - Docking Ring.flac
-/home/javamusic/mus/straysounds/09 - The Kindness of Strangers.flac
-/home/javamusic/mus/straysounds/10 - Refresh.flac
-/home/javamusic/mus/straysounds/11 - Eliza.flac
-/home/javamusic/mus/straysounds/12 - Critical Systems.flac
-/home/javamusic/mus/straysounds/13 - Petite valse (busker version).flac
-/home/javamusic/mus/straysounds/14 - Ballad of the Lonely Robot (busker version).flac
-/home/javamusic/mus/straysounds/15 - untitled (busker version).flac
-/home/javamusic/mus/straysounds/16 - The Way you Compute Tonight (busker version).flac
-/home/javamusic/mus/straysounds/17 - Tomorrows (busker version).flac
-/home/javamusic/mus/straysounds/18 - Cool down (busker version).flac
-/home/javamusic/mus/straysounds/19 - Mildly Important Information (busker version).flac
-/home/javamusic/mus/straysounds/20 - (unreadable music) (busker version).flac
-/home/javamusic/mus/straysounds/21 - A Sphere of Blue Light on a Marble Floor with Waves Coming from Every Direction.flac
-/home/javamusic/mus/straysounds/22 - Uwazumosurikae.flac
-/home/javamusic/mus/straysounds/23 - Bushido Calculus.flac
-/home/javamusic/mus/straysounds/24 - Ominous Music.flac
-/home/javamusic/mus/straysounds/25 - Loud Music.flac
-/home/javamusic/mus/straysounds/26 - Radio Edit (radio edit).flac
-/home/javamusic/mus/straysounds/27 - Computational Song.flac
-/home/javamusic/mus/straysounds/28 - Error-22.flac
-/home/javamusic/mus/straysounds/29 - Pressure Suit.flac
-/home/javamusic/mus/straysounds/30 - Suitcase.flac
-/home/javamusic/mus/straysounds/31 - Sound of Something Falling.flac
-/home/javamusic/mus/straysounds/32 - Placeholder World.flac
-/home/javamusic/mus/straysounds/33 - I am a Satellite.flac
-/home/javamusic/mus/straysounds/34 - Static Sleep Loop.flac
-/home/javamusic/mus/straysounds/35 - Binary Sunset.flac
-/home/javamusic/mus/straysounds/36 - LDF_OF.flac
-/home/javamusic/mus/straysounds/37 - Baby Download.flac
-/home/javamusic/mus/straysounds/38 - Self-Destruct Sequence Initiated.flac
-/home/javamusic/mus/straysounds/39 - Default Club Sound.flac
-/home/javamusic/mus/straysounds/40 - Ugly Megamix.flac
-/home/javamusic/mus/straysounds/41 - Dummy Code Segment (see below).flac
+/home/javamusic/mus/straysounds/01_-_Cool_Down.flac
+/home/javamusic/mus/straysounds/02_-_The_Way_you_Compute_Tonight.flac
+/home/javamusic/mus/straysounds/03_-_Step_on_my_Shard.flac
+/home/javamusic/mus/straysounds/04_-_Tomorrows.flac
+/home/javamusic/mus/straysounds/05_-_Sterilize.flac
+/home/javamusic/mus/straysounds/06_-_Safe_Mode.flac
+/home/javamusic/mus/straysounds/07_-_Velocity_Regression.flac
+/home/javamusic/mus/straysounds/08_-_Docking_Ring.flac
+/home/javamusic/mus/straysounds/09_-_The_Kindness_of_Strangers.flac
+/home/javamusic/mus/straysounds/10_-_Refresh.flac
+/home/javamusic/mus/straysounds/11_-_Eliza.flac
+/home/javamusic/mus/straysounds/12_-_Critical_Systems.flac
+/home/javamusic/mus/straysounds/13_-_Petite_valse_(busker_version).flac
+/home/javamusic/mus/straysounds/14_-_Ballad_of_the_Lonely_Robot_(busker_version).flac
+/home/javamusic/mus/straysounds/15_-_untitled_(busker_version).flac
+/home/javamusic/mus/straysounds/16_-_The_Way_you_Compute_Tonight_(busker_version).flac
+/home/javamusic/mus/straysounds/17_-_Tomorrows_(busker_version).flac
+/home/javamusic/mus/straysounds/18_-_Cool_down_(busker_version).flac
+/home/javamusic/mus/straysounds/19_-_Mildly_Important_Information_(busker_version).flac
+/home/javamusic/mus/straysounds/20_-_(unreadable_music)_(busker_version).flac
+/home/javamusic/mus/straysounds/21_-_A_Sphere_of_Blue_Light_on_a_Marble_Floor_with_Waves_Coming_from_Every_Direction.flac
+/home/javamusic/mus/straysounds/22_-_Uwazumosurikae.flac
+/home/javamusic/mus/straysounds/23_-_Bushido_Calculus.flac
+/home/javamusic/mus/straysounds/24_-_Ominous_Music.flac
+/home/javamusic/mus/straysounds/25_-_Loud_Music.flac
+/home/javamusic/mus/straysounds/26_-_Radio_Edit_(radio_edit).flac
+/home/javamusic/mus/straysounds/27_-_Computational_Song.flac
+/home/javamusic/mus/straysounds/28_-_Error-22.flac
+/home/javamusic/mus/straysounds/29_-_Pressure_Suit.flac
+/home/javamusic/mus/straysounds/30_-_Suitcase.flac
+/home/javamusic/mus/straysounds/31_-_Sound_of_Something_Falling.flac
+/home/javamusic/mus/straysounds/32_-_Placeholder_World.flac
+/home/javamusic/mus/straysounds/33_-_I_am_a_Satellite.flac
+/home/javamusic/mus/straysounds/34_-_Static_Sleep_Loop.flac
+/home/javamusic/mus/straysounds/35_-_Binary_Sunset.flac
+/home/javamusic/mus/straysounds/36_-_LDF_OF.flac
+/home/javamusic/mus/straysounds/37_-_Baby_Download.flac
+/home/javamusic/mus/straysounds/38_-_Self-Destruct_Sequence_Initiated.flac
+/home/javamusic/mus/straysounds/39_-_Default_Club_Sound.flac
+/home/javamusic/mus/straysounds/40_-_Ugly_Megamix.flac
+/home/javamusic/mus/straysounds/41_-_Dummy_Code_Segment_(see_below).flac
