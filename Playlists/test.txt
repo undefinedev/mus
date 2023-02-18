@@ -1,5 +1,5 @@
 /home/javamusic/mus/1/Imagine_Dragons_-_Natural.flac
-/home/javamusic/mus/1/01 Dance Monkey.flac
-/home/javamusic/mus/1/01 Astronaut In The Ocean.flac
-/home/javamusic/mus/1/Pitbull - Feel This Moment feat. Christina Aguilera.flac
+/home/javamusic/mus/1/Dance_Monkey.flac
+/home/javamusic/mus/1/Astronaut_In_The_Ocean.flac
+/home/javamusic/mus/1/Pitbull_-_Feel_This_Moment_feat._Christina_Aguilera.flac
 /home/javamusic/mus/1/Halsey_-_Without_Me.flac
