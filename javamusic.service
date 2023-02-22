@@ -1,0 +1,10 @@
+[Unit]
+Description=IU8 Music Java
+
+[Service]
+ExecStart=/home/javamusic/start.sh
+Restart=on-failure
+RestartSec=60
+
+[Install]
+WantedBy=multi-user.target
